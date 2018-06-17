@@ -1,0 +1,22 @@
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+sandbox/build/classes/java/main/MyFerstProgram.class
+*.bat
+sandbox/build/distributions/sandbox.tar
+sandbox/build/distributions/sandbox.zip
+sandbox/build/libs/sandbox.jar
+sandbox/build/scripts/sandbox
+sandbox/build/tmp/jar/MANIFEST.MF
+.idea/workspace.xml
